@@ -3,4 +3,4 @@ AppInfoAndSign
 
 
 
-![描述](https://github.com/WuMaoQiang/AppInfoAndSign/blob/master/Preview/79ddf6ed756d595d1f63bba3b5d0411.jpg)
+<img src="https://github.com/WuMaoQiang/AppInfoAndSign/blob/master/Preview/79ddf6ed756d595d1f63bba3b5d0411.jpg" width="335" height="669"  />
